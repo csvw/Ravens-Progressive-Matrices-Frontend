@@ -6,7 +6,7 @@ Top ten submission for the final class project in CS 7637 at Georgia Tech.
 
 Raven's Progressive Matrices (RPM) is an intelligence test that has been the subject of much research within the artificial intelligence community. RPM consists of a series of visual reasoning problems. In each problem, the test taker is presented with an incomplete sequence of images and must select the answer that completes the sequence. An example problem is shown below:
 
-![alt text]([https://github.com/csvw/Ravens-Progressive-Matrices-Frontend/blob/main/Basic%20Problem%20D-07.PNG](https://raw.githubusercontent.com/csvw/Ravens-Progressive-Matrices-Frontend/refs/heads/main/Basic%20Problem%20D-07.PNG))
+![alt text]([https://github.com/csvw/Ravens-Progressive-Matrices-Frontend/blob/main/Basic%20Problem%20D-07.PNG](https://raw.githubusercontent.com/csvw/Ravens-Progressive-Matrices-Frontend/refs/heads/main/Basic%20Problem%20D-07.PNG)
 
 Developing cognitive agents that can solve RPM is an open research problem. In CS 7637, Knowledge-Based Artificial Intelligence: Cognitive Systems, students get to try their hand at building just such an agent. In a series of three projects over the course of the semester, students tackle increasingly difficult visual reasoning problems. By the end of the semester, students will have applied the methods and principles taught in class to design and develop a cognitive agent that can solve RPM problems.
 
